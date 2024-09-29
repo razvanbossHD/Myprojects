@@ -1,0 +1,2 @@
+	Flappy block is a flappy bird remake I made in order to improve my coding skills.
+	Unfortunately, at the time I did not know about objects so the pipes are 2 arrays put together using a function.

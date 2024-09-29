@@ -1,0 +1,1 @@
+	This is a project I created in order to familiarize myself with gravity, jumping, walking, collisions, images, classes and objects

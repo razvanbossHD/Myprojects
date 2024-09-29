@@ -1,0 +1,4 @@
+	Enlarging ball is a mini-game made from an original idea.
+	The goal of the game is to stop the blue ball from expanding more than the red area. You can do that by clicking on the white circles. Each time you click on them, the ball gets a bit smaller.
+	It is a pretty hard game, mostly because the amount size it loses each time is deliberately made small, and because every 20 points(amount of times clicked on a circle) of score you lose 1 of the 5 circles.
+	You win by getting 100 points.

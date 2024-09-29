@@ -1,0 +1,2 @@
+	This project is a barebones roguelike game without any of the upgrades to truly make it a roguelike.
+	You play this game by moving with the "w", "a", "s", "d" keys and beat enemies by clicking on them.
